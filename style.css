@@ -1,0 +1,95 @@
+.box1{
+    background-color: chartreuse;
+    height: 600px;
+    width: 700px;
+    margin:20px auto;
+}
+
+.boxin1{
+    background-color: deepskyblue;
+    width: 700px;
+    height: 200px;
+}
+.boxin2{
+    background-color: darkmagenta;
+    width: 700px;
+    height: 200px;
+}
+.boxin3{
+    background-color: darkred;
+    width: 700px;
+    height: 200px;
+} 
+.box2{
+    background-color: darkorange;
+    width: 700px;
+    height: 600px;
+    margin:20px auto;
+}
+.boxv1{
+    background-color: darkgreen;
+    width: 700px;
+    height: 200px;
+    display: flex;
+}
+.boxes1{
+    background-color: darkorchid;
+    width: 250px;
+    height: 200px;
+}
+.boxes2{
+    background-color: darkblue;
+    width: 250px;
+    height: 200px;
+}
+.boxes3{
+    background-color: aquamarine;
+    width: 260px;
+    height: 200px;
+}
+.boxv2{
+    background-color: deeppink;
+    width: 700px;
+    height: 200px;
+}
+.boxv3{
+    background-color:goldenrod;
+    width: 700px;
+    height: 200px;
+    display: flex;
+}
+.boxen1{
+    background-color: black;
+    width: 350px;
+    height: 200px;
+}
+.boxen2{
+    background-color: cyan;
+    width: 350px;
+    height: 200px;
+}
+.box3{
+    background-color: hotpink;
+    width: 700px;
+    height: 200px;
+    margin:20px auto;
+    display: flex;
+    justify-content:space-around;
+    align-items:center;
+}
+.boxed1{
+    background-color: mediumorchid;
+    width: 200px;
+    height: 180px;
+
+}
+.boxed2{
+    background-color:darkslategray;
+    width: 200px;
+    height: 180px;
+}
+.boxed3{
+    background-color:darkcyan;
+    width: 200px;
+    height: 180px;
+}
